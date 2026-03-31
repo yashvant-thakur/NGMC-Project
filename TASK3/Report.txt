@@ -1,0 +1,5 @@
+In this task, I explored HackerRank and Google Forms. I completed a beginner-level coding problem on HackerRank, which helped me understand basic problem-solving using programming. It was a good introduction to coding practice platforms.
+
+I also created a Google Form titled "Digital Literacy Awareness Quiz" with five questions, including multiple choice and short answer types. This form can be used to assess awareness among students. I linked the form to a Google Sheet to collect responses.
+
+These tools are very useful academically as HackerRank helps improve coding skills, while Google Forms can be used for surveys, quizzes, and data collection. This task showed how digital tools can be used for both learning and collaboration
